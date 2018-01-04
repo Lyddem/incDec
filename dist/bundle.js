@@ -18951,36 +18951,9 @@ module.exports = function (css) {
 
 /***/ }),
 /* 33 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-
-var _react = __webpack_require__(4);
-
-var _react2 = _interopRequireDefault(_react);
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-var List = function List(props) {
-  return _react2.default.createElement(
-    'ul',
-    null,
-    props.items.map(function (item, index) {
-      return _react2.default.createElement(
-        'li',
-        { key: index },
-        item
-      );
-    })
-  );
-};
-
-exports.default = List;
+throw new Error("Module build failed: Error: ENOENT: no such file or directory, open '/Users/LydiaDemi/Desktop/incDec/src/components/List.jsx'");
 
 /***/ })
 /******/ ]);
